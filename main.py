@@ -108,17 +108,3 @@ if st.button('提交'):
        st.write( " 預計到站時間:" + temp[(result_index + 1):(result_index + 9)])
        st.write(" " )
        st.write(" ")
-
-
-
-
-
-   #st.write(kmb_route_stop_eta_list)
-
-
-
-
-
-   st.write(f"現在時間是 {now}")
-
-
